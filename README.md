@@ -8,6 +8,10 @@
 * rubygems
   + qtbindings
 
+```
+$ sudo gem install qtbindings
+```
+
 ## How to
 
 実行方法
